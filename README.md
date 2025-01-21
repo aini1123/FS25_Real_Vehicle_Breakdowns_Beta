@@ -1,4 +1,4 @@
-# FS25-Real-Vehicle-Breakdowns-Beta
+# FS25_gameplay Real Vehicle Breakdowns Beta
 
 <div style="display: inline-flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=nu9aUVNbP1o" target="_blank" style="display: inline-block;">
@@ -6,3 +6,14 @@
          style="width: 100px; height: auto; margin-left: 5px;">
   </a>
 </div>
+</br>
+<p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=5">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
+
+Changelog 0.9.0.5:
+- Dynamic battery regeneration
+- HUD optimization
+- General settings - HUD display
+- Added Portuguese translation
+
+Changelog 0.9.0.4:
+- Upgrading from FS22 to FS25
