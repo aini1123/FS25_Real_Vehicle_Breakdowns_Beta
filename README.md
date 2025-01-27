@@ -11,6 +11,13 @@
 </br>
 <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=5">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
 
+## Changelog 0.9.0.7:
+- github issues#19 - Temporary, quick bug fix.
+- github issues#16
+- github issues#14
+- github issues#11
+- github issues#10
+  
 ## Changelog 0.9.0.6:
 - github issues#18
 - github issues#16
