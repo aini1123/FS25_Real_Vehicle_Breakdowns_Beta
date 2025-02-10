@@ -11,6 +11,11 @@
 </br>
 <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=5">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
 
+## Changelog 0.9.1.1:
+- The battery drains quickly - when using the yarder(shadow2391) (Koller K-300-T I tested) or using  Autodrive - fixed
+- github issues#27
+- General Settings loading (MP) bug – fixed
+ 
 ## Changelog 0.9.1.0:
 - github issues#23
 - github issues#20 - I hope
