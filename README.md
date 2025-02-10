@@ -14,6 +14,7 @@
 ## Changelog 0.9.1.1:
 - The battery drains quickly - when using the yarder(shadow2391) (Koller K-300-T I tested) or using  Autodrive - fixed
 - github issues#27
+- github issues#22
 - General Settings loading (MP) bug – fixed
  
 ## Changelog 0.9.1.0:
