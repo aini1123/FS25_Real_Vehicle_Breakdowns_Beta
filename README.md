@@ -10,8 +10,11 @@
 </div>
 </br>
 
-## This is a very early test version, so it may not work perfectly on a server. It still needs thorough testing, but unfortunately, I had little time for it
-<p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=7">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
+<p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=5">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
+
+## Changelog 0.9.2.1:
+- github issues#44
+- github issues#43
 
 ## Changelog 0.9.2.0:
 - Add new feature: Vehicle Jump Start - github issues#30, issues#37
@@ -20,8 +23,6 @@
 - github issues#35
 - Ukrainian translation added - github issues#34
 - github issues#29
-
-<p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=5">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
 
 ## Changelog 0.9.1.1:
 - The battery drains quickly - when using the yarder(shadow2391) (Koller K-300-T I tested) or using  Autodrive - fixed
