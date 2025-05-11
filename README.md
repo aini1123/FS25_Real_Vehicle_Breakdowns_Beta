@@ -10,6 +10,18 @@
 </div>
 </br>
 
+<p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=7">Download the latest developer TEST version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
+
+## Changelog 0.9.2.2:
+- github issues#55
+- github issues#54
+- github issues#53
+- github issues#51 CZ translation update
+- github issues#50
+- github issues#47
+- github issues#45
+- Italian translation added - caymann lo re
+
 <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=5">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
 
 ## Changelog 0.9.2.1:
