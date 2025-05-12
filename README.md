@@ -22,7 +22,7 @@
 - github issues#47
 - github issues#45
 - github issues#51 NL translation update - thanks by NozemOil1982
-- github issues#7
+- github issues#4
 - Italian translation added - thanks by caymann lo re
 
 <p dir="auto"><strong><a href="https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=4&dlc_id=5">Download the latest developer version</a></strong> (the file FS25_gameplay_Real_Vehicle_Breakdowns.zip).</p>
